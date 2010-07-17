@@ -12,6 +12,7 @@ If you want to play with it:
 it in a [directory where Osmosis can find it](http://wiki.openstreetmap.org/wiki/Osmosis/Detailed_Usage#Plugin_Tasks), like
 `$HOME/.openstreetmap/osmosis/plugins` in OSX or Linux.
 3. Put the following libs in `osmosis/lib/default`:
+ 
 
 
 * jts-1.10.jar
